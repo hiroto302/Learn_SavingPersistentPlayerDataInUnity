@@ -27,4 +27,4 @@ MonoBehaviour:
   currentEncumbrance: 0
   charExperience: 0
   resetLevelOnDeath: 1
-  characterData: {fileID: 0}
+  characterData: {fileID: 11400000, guid: 6c708baef855a46fda57cd0e5745f28e, type: 2}
